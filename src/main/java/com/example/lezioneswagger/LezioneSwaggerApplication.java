@@ -8,7 +8,6 @@ public class LezioneSwaggerApplication {
 
 	public static void main(String[] args) {
 		SpringApplication.run(LezioneSwaggerApplication.class, args);
-		//main
 	}
 
 }
